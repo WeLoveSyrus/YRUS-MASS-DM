@@ -1,0 +1,6 @@
+  
+discord
+os
+colorama
+requests
+time
